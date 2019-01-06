@@ -10,5 +10,5 @@
 - Run: ./extract_file.py <tsv_file> --outputDir <directory_to_extract_to>
 - Run img2h5df.py to convert image data to h5 format.
 - Run LCNN29.py to training or run LCNN29_transfer.py to transfer leaning.
-## Referencs
+## References
 - [Model for entire MS-Celeb dataset](https://github.com/yxu0611/Tensorflow-implementation-of-LCNN).
